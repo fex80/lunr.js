@@ -23,7 +23,7 @@ Please consider contributing to the upstream project.
 ## Releasing
 
 * update version in file `/VERSION`
-* update changlog in `/CHANGELOG`
+* update changelog in `/CHANGELOG`
 * `make clean all release`
     * Note: Vulnerabilities usually don't matter as we only have dev dependencies
 * `./build/release.sh`
