@@ -33,8 +33,8 @@ ESLINT ?= ./node_modules/.bin/eslint
 JSDOC ?= ./node_modules/.bin/jsdoc
 NODE_STATIC ?= ./node_modules/.bin/static
 
-all: test lint docs
-release: lunr.js lunr.min.js bower.json package.json component.json docs
+all: test lint
+release: lunr.js lunr.min.js package.json component.json
 
 lunr.js: $(SRC)
 	cat build/wrapper_start $^ build/wrapper_end | \

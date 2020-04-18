@@ -2,3 +2,7 @@
 docs/
 test/env/file_list.json
 .idea/*
+
+lunr.js
+lunr.min.js
+component.json

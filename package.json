@@ -3,7 +3,9 @@
   "description": "Adapted from lunrjs.com. Simple full-text search.",
   "version": "2.3.8-fex.1",
   "author": "Felix Alcala",
-  "keywords": ["search"],
+  "keywords": [
+    "search"
+  ],
   "main": "lunr.js",
   "license": "MIT",
   "repository": {
