@@ -1,16 +1,14 @@
 {
-  "name": "lunr",
-  "description": "Simple full-text search in your browser.",
-  "version": "@VERSION",
-  "author": "Oliver Nightingale",
+  "name": "@fex80/lunr",
+  "description": "Adapted from lunrjs.com. Simple full-text search.",
+  "version": "2.3.8-fex.1",
+  "author": "Felix Alcala",
   "keywords": ["search"],
-  "homepage": "https://lunrjs.com",
-  "bugs": "http://github.com/olivernn/lunr.js/issues",
   "main": "lunr.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/olivernn/lunr.js.git"
+    "url": "https://github.com/fex80/lunr.js"
   },
   "devDependencies": {
     "benchmark": "2.1.x",

@@ -1,6 +1,7 @@
 /**
  * lunr - http://lunrjs.com - A bit like Solr, but much smaller and not as bright - @VERSION
- * Copyright (C) @YEAR Oliver Nightingale
+ * Underlying Package Copyright (C) @YEAR Oliver Nightingale
+ * Adapted by Felix Alcala
  * @license MIT
  */
 

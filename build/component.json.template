@@ -1,8 +1,8 @@
 {
-  "name": "lunr",
-  "repo": "olivernn/lunr.js",
+  "name": "@fex80/lunr",
+  "repo": "fex80/lunr.js",
   "version": "@VERSION",
-  "description": "Simple full-text search in your browser.",
+  "description": "Adapted from lunrjs.com. Simple full-text search.",
   "license": "MIT",
   "main": "lunr.js",
   "scripts": ["lunr.js"]
