@@ -4,7 +4,7 @@
 
 Adapted from [olivernn/lunr.js](https://github.com/olivernn/lunr.js)
 
-Probably, this package is not what you are looking for. Please consider using the [upstream package](https://github.com/olivernn/lunr.js).
+Probably, is not the package you are looking for. Please consider using the [upstream package](https://github.com/olivernn/lunr.js).
 
 
 ## Description
