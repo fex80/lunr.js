@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 2.3.8.fex-2
+
+* Adding TS types
+
 ## 2.3.8.fex-1
 
 * Adapting fork and release
