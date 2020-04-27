@@ -1,9 +1,15 @@
 # Changelog
 
 
+## 2.3.8.fex-3
+
+* Refining TS Types: adding utils.clone
+
+
 ## 2.3.8.fex-2
 
 * Adding TS types
+
 
 ## 2.3.8.fex-1
 
