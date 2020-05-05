@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.3.8.fex-4
+## 2.3.8.fex-4 and .fex-5
 
 * Added function to clear function registration
 

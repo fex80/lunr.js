@@ -22,6 +22,7 @@ Please consider contributing to the upstream project.
 
 ## Releasing
 
+* update types in `index.d.ts` as needed
 * update version in file `/VERSION`
 * update changelog in `/CHANGELOG`
 * `make clean all release`
