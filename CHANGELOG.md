@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.8.fex-4
+
+* Added function to clear function registration
+
 
 ## 2.3.8.fex-3
 
