@@ -1,7 +1,7 @@
 # Changelog
 
 
-## 2.3.8.fex-6
+## 2.3.8.fex-6 and .fex-7
 
 * Added function `Index.runThroughSearchPipeline(string):string`
 

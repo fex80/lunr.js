@@ -362,7 +362,7 @@ declare namespace lunr {
      * @param {string} tokenString - A string to pass through the pipeline
      * @returns the string representation of the first result returned by the pipeline
      */
-    runThroughSearchPipeline(tokenString): string
+    runThroughSearchPipeline(tokenString: string): string
   }
 
   /**
