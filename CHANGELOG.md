@@ -1,5 +1,11 @@
 # Changelog
 
+
+## 2.3.8.fex-6
+
+* Added function `Index.runThroughSearchPipeline(string):string`
+
+
 ## 2.3.8.fex-4 and .fex-5
 
 * Added function to clear function registration

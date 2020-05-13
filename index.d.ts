@@ -353,6 +353,16 @@ declare namespace lunr {
      * @param serializedIndex - A previously serialized lunr.Index
      */
     static load(serializedIndex: object): Index;
+
+
+    /**
+     * Runs a string through the search pipeline and returns the first
+     * token as a string.
+     *
+     * @param {string} tokenString - A string to pass through the pipeline
+     * @returns the string representation of the first result returned by the pipeline
+     */
+    runThroughSearchPipeline(tokenString): string
   }
 
   /**
