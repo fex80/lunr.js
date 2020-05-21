@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.8.fex-8
+
+* Added function `lunr.Pipeline.getRegisteredFunction`
+
 
 ## 2.3.8.fex-6 and .fex-7
 

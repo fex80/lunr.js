@@ -469,6 +469,11 @@ declare namespace lunr {
     static clearRegisteredFunctions(): void
 
     /**
+     * Gets a registered function from the pipeline. Useful, e.g., for automated tests.
+     */
+    static getRegisteredFunction(label: string): PipelineFunction
+
+    /**
      * Loads a previously serialised pipeline.
      *
      * All functions to be loaded must already be registered with lunr.Pipeline.
