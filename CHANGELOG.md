@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.3.8.fex-9
+
+* Query Lexer uses lunr.tokenizer.separator as term separator 
+  (was the case before as well, but did not work in our setup, so we muved that into the 
+  constructor)
+ 
 ## 2.3.8.fex-8
 
 * Added function `lunr.Pipeline.getRegisteredFunction`
